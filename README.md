@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @ALIkuzgun
-- 👀 I’m interested in make a game and python coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-ALIkuzgun/ALIkuzgun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, I am ALIKuzgun. I code Python and develop games with pygame.
+<br>
+You can check out my Fiverr account https://www.fiverr.com/jack_kuzgun?up_rollout=true
